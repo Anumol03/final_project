@@ -1,0 +1,21 @@
+#d1{
+    
+    border-radius: 50px;
+    height: 400px;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+#h{
+    display: flex;
+   
+    justify-content: center;
+}
+#f{
+    margin-top: 50px;
+}
+#b1{
+    width: 100%;
+    margin-top: 30px;
+}
+
+
